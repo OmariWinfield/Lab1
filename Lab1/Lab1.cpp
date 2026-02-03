@@ -8,7 +8,7 @@ int main()
 	while (Progress.codeLines > 1000)
 	{
 		ifstream file("program11.txt");
-		Progress
+		
 	}
 }
 
